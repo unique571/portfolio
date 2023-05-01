@@ -439,9 +439,6 @@ footer .text span a {
   font-weight: 500;
   color: #fff;
 }
-footer .text span a:hover {
-  text-decoration: underline;
-}
 /* Scroll TO Top Button CSS */
 .scroll-button a {
   position: fixed;
