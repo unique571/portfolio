@@ -76,12 +76,12 @@ nav.sticky .menu a {
 nav.sticky .menu a:hover {
   color: #0e2431;
 }
-.navbar .media-icons a {
+.media-icons a {
   color: hsl(16, 100%, 50%);
   font-size: 18px;
   margin: 0 6px;
 }
-nav.sticky .media-icons a {
+.media-icons a {
   color: #fff;
 }
 
