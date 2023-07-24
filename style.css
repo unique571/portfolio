@@ -81,8 +81,8 @@ nav.sticky .menu a:hover {
   font-size: 18px;
   margin: 0 6px;
 }
-.media-icons a {
-  color: hsl(16, 100%, 50%);
+.media-icons a:hover{
+  font-size: 30px;
 }
 
 
