@@ -55,7 +55,7 @@ nav.sticky .navbar .logo a {
 nav .navbar .menu {
   display: flex;
   position: relative;
-  top: -50px;
+  top: -30px;
 }
 nav .navbar .menu li {
   list-style: none;
