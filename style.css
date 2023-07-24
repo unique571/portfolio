@@ -79,12 +79,17 @@ nav.sticky .menu a:hover {
 .media-icons a {
   color: hsl(16, 100%, 50%);
   font-size: 18px;
-  margin: 0 6px;
+  margin: 0 6px 10px;
 }
 .fa-twitter:hover{
   color: rgb(0, 162, 255);
 }
-
+.fa-linkedin-in:hover{
+  color: blue;
+}
+.fa-github:hover{
+  color: #0e2431;
+}
 
 /* Side Navigation Menu Button CSS */
 nav .menu-btn,
