@@ -79,13 +79,14 @@ nav.sticky .menu a:hover {
 .media-icons a {
   color: hsl(16, 100%, 50%);
   font-size: 18px;
-  margin: 0 6px 10px;
+  margin-top: 10px;
+  margin-left: 6px;
 }
 .fa-twitter:hover{
   color: rgb(0, 162, 255);
 }
 .fa-linkedin-in:hover{
-  color: blue;
+  color: rgb(0, 162, 255);
 }
 .fa-github:hover{
   color: #0e2431;
