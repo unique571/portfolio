@@ -55,6 +55,7 @@ nav.sticky .navbar .logo a {
 nav .navbar .menu {
   display: flex;
   position: relative;
+  top: -100px;
 }
 nav .navbar .menu li {
   list-style: none;
@@ -79,7 +80,6 @@ nav.sticky .menu a:hover {
 .media-icons a {
   color: hsl(16, 100%, 50%);
   font-size: 18px;
-  /* margin-top: 10px; */
   margin-left: 15px;
 }
 .fa-twitter:hover{
