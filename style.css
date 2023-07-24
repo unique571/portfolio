@@ -79,8 +79,8 @@ nav.sticky .menu a:hover {
 .media-icons a {
   color: hsl(16, 100%, 50%);
   font-size: 18px;
-  margin-top: 10px;
-  margin-left: 6px;
+  /* margin-top: 10px; */
+  margin-left: 10px;
 }
 .fa-twitter:hover{
   color: rgb(0, 162, 255);
