@@ -80,7 +80,7 @@ nav.sticky .menu a:hover {
   color: hsl(16, 100%, 50%);
   font-size: 18px;
   /* margin-top: 10px; */
-  margin-left: 10px;
+  margin-left: 15px;
 }
 .fa-twitter:hover{
   color: rgb(0, 162, 255);
@@ -90,6 +90,9 @@ nav.sticky .menu a:hover {
 }
 .fa-github:hover{
   color: #0e2431;
+}
+.fa-facebook-f:hover{
+  color: blue;
 }
 
 /* Side Navigation Menu Button CSS */
